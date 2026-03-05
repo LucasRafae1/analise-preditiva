@@ -12,7 +12,7 @@ metodologia científica que mede o custo ambiental de produção de recursos.
 ## 🛠️ Tecnologias
 - Python
 - Google Colab
-- Excel / SQL
+- Excel 
 
 ## 📁 Arquivos
 - `EmergyDatabase.xlsx` — Base de dados original
