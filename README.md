@@ -16,8 +16,8 @@ metodologia científica que mede o custo ambiental de produção de recursos.
 
 ## 📁 Arquivos
 - `EmergyDatabase.xlsx` — Base de dados original
-- `[nome do seu Excel de análise]` — Planilha com análise completa
-- `[nome do seu arquivo].ipynb` — Notebook com o código e resultados
+- `analise_uev.xlsx` — Planilha com análise completa
+- `analise_emergy_COLAB.ipynb` — Notebook com o código e resultados
 
 ## 👤 Autor
 Lucas Rafael — linkedin.com/in/lucas-rafael-149a442b7
